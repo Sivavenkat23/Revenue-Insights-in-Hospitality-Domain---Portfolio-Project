@@ -1,9 +1,9 @@
-# Nashville_Project
-Data Extraction - Data Cleaning with SQL - Data Sorting in Excel - Visualization in Tableau
+# Revenue Insights in Hospitality Domain Project
+Data Extraction - Data Cleaning and Transforming with Excel - Visualization in Power BI
 
-End to End Portfolio Project Series. 😀
-Tech Stacks Used: 🖥
-PostgreSQL (pgAdmin4).
+## End to End Portfolio Project Series. 😀
+Tech Stacks Used: :desktop_computer:
+
 SQL Server.
 MS Excel.
 Tableau.
