@@ -1,13 +1,12 @@
 # Revenue Insights in Hospitality Domain Project
 Data Extraction - Data Cleaning and Transforming with Excel - Visualization in Power BI
 
-## End to End Portfolio Project Series. 😀
-Tech Stacks Used: :desktop_computer:
+# End to End Portfolio Project Series. 😀
+#Tech Stacks Used: :desktop_computer:
+##1.Database : MS Excel.
+##2.Visualization Tool : Power BI. 
 
-SQL Server.
-MS Excel.
-Tableau.
-Summary:
+# Summary:
 Used a dataset on Nashville Property Sale records.
 Uploaded in to PostgreSQL (pgAdmin4) database and MS SQL Server Management Studio.
 Used few functions from DML, DDL and DCL Language to manipulate and cleaned Data.
