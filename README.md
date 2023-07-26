@@ -21,8 +21,8 @@ Data Extraction - Data Cleaning and Transforming with Excel - Power Query - DAX 
 3. Tried using the color palette and sticking with that colors throughout the dashboard.
    
 # Some Important insights from the Dashboard
-:black_small_square: Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
-:radio_button: AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+:black_small_square: Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
+:black_small_square: AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
 :radio_button: AtliQ Bay has the highest occupancy of 66%.
 :radio_button: Week 24 recorded the highest revenue among all, which is 139.6 Million.
 :radio_button: Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore.
